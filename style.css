@@ -1,0 +1,31 @@
+.hat {
+	font-size: 3em;
+	font-style: italic;
+	background-color: #CCFFCC;
+	width: 100%;
+	margin-bottom: 0;
+	text-align: center;
+	}
+img {
+	display:block; margin:1% auto;
+	}
+.info {
+	text-align:center;
+	margin: 7px 7px 7px 0;
+	font-size:18pt;
+	}		
+.educ {
+	padding-bottom: 10px;
+	text-align: center;
+
+}	
+	
+.contact
+{
+	text-align: center;
+}
+table{
+	font-size:20pt;
+	width: 80%;
+	margin:auto;
+}
